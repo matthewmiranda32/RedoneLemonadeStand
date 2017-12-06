@@ -1,0 +1,6 @@
+c:\users\matthew miranda\documents\visual studio 2015\Projects\LemonadeStand1\LemonadeStand1\bin\Debug\LemonadeStand1.exe.config
+C:\Users\Matthew Miranda\documents\visual studio 2015\Projects\LemonadeStand1\LemonadeStand1\bin\Debug\LemonadeStand1.exe
+C:\Users\Matthew Miranda\documents\visual studio 2015\Projects\LemonadeStand1\LemonadeStand1\bin\Debug\LemonadeStand1.pdb
+C:\Users\Matthew Miranda\documents\visual studio 2015\Projects\LemonadeStand1\LemonadeStand1\obj\Debug\LemonadeStand1.csprojResolveAssemblyReference.cache
+C:\Users\Matthew Miranda\documents\visual studio 2015\Projects\LemonadeStand1\LemonadeStand1\obj\Debug\LemonadeStand1.exe
+C:\Users\Matthew Miranda\documents\visual studio 2015\Projects\LemonadeStand1\LemonadeStand1\obj\Debug\LemonadeStand1.pdb
