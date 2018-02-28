@@ -42,6 +42,10 @@ namespace LemonadeStand1
             recipe.AddSugar(player.inventory);
             recipe.AddIce(player.inventory);
             recipe.MakePitcher(player.inventory);
+            recipe.subtractLemons(player.inventory);
+            recipe.subtractSugar(player.inventory);
+            recipe.subtractIce(player.inventory);
+            recipe.subtractCups(player.inventory);
             player.SetLemonadePrice();
             day.GenerateCustomers();
             customer.LikeTheTaste(recipe);
